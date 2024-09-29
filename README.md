@@ -91,7 +91,7 @@ Key libraries include:
 
 Here's an example of how object detection looks on an uploaded video:
 
-!([images/yolov8_detection_example.jpg](https://github.com/Sudarmugi-B/video-based-detection-using-yolov8/blob/main/assets/home.png))
+!([images/yolov8_detection_example.jpg](assets/home.png))
 
 
 ## Contributing
