@@ -93,11 +93,6 @@ Here's an example of how object detection looks on an uploaded video:
 
 !([images/yolov8_detection_example.jpg](https://github.com/Sudarmugi-B/video-based-detection-using-yolov8/blob/main/assets/home.png))
 
-*Note: Replace 'images/yolov8_detection_example.jpg' with the path to your actual detection example image.*
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Contributing
 
